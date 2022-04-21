@@ -1,0 +1,199 @@
+.Tahoma{
+  font-family: 'Tahoma';
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.Deals{
+  font-family: 'Arial';
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 6px;
+}
+
+.Sales{
+  font-family: 'Arial';
+  color: red;
+  font-style: italic;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.Course{
+  font-family: 'Verdana';
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.Beginner{
+  font-family:'Verdana';
+  color: grey;
+  margin-top: 0px;
+  font-size: 13px;
+}
+
+.Course-lesson{
+  font-family: 'Verdana';
+  width: 400px;
+  margin-bottom: 5px;
+}
+
+.Get-started-button{
+  background-color: rgb(65, 170, 65);
+  color: white;
+  border: 0px;
+  border-radius: 3px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 2px;
+  padding-top: 3px;
+  font-size: 7px;
+  width: 42px;
+  height: 15px;
+  margin-top: 0px;
+}
+
+.Shopping{
+  font-family: 'Arial';
+  font-weight: bold;
+  text-align: center;
+  font-size: 17px;
+  margin-bottom: 8px;
+}
+
+.Apple-at-work{
+  font-family: 'Arial';
+  text-align: center;
+  font-weight: bolder;
+  font-size: 10px;
+  margin-top: 0px;
+}
+
+.Learn-more{
+  font-family: 'Arial';
+  text-align: center;
+  font-size: 11px;
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.New{
+  font-family: 'Arial';
+  color: red;
+  text-align: center;
+  font-size: 10px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.Macbook{
+  font-family: 'Arial';
+  font-weight: bold;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 6px;
+  margin-bottom: 3px;
+}
+
+.Supercharged{
+  font-family: 'Arial';
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.From{
+  font-family: 'Arial';
+  font-size: 9px ;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  color: rgb(7, 7, 7);
+}
+
+.Buy-button{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.flex-button{
+  background-color: blue;
+  color: white;
+  font-family: 'Arial';
+  font-size: 8px;
+  border: 0pt;
+  border-radius: 16px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  margin-top: 8px;
+}
+
+.USD{
+  font-family: 'Arial';
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 3px;
+}
+
+.USD-letter{
+  font-family: 'Arial';
+  color: gray;
+  font-size: 12px; 
+}
+
+.Today{
+  font-family: 'Arial';
+  color: rgb(47, 243, 47);
+  font-size: 12.5px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.After-hours{
+  font-family: 'Arial';
+  font-size: 14px;
+  color: rgb(97, 93, 93);
+  margin-top: 4px;
+  margin-bottom: 30px;
+}
+
+.Minus-one-point-six{
+  color: red;
+}
+
+.freeCodeCamp{
+  font-family: 'Arial';
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.freeCodeCamp-1h{
+  font-family: 'Arial';
+  color: rgb(110, 109, 109);
+}
+
+.Web-developer{
+  font-family: 'Arial';
+  font-weight: bold;
+  width: 600px;
+  margin-top: 0px;
+  line-height: 24px;
+}
+
+.Here{
+  font-family: 'Arial';
+  font-weight: bold;
+}
+
+.Outlines{
+  color:rgb(50, 192, 240);
+  font-weight: bold;
+}
